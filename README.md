@@ -5,7 +5,7 @@
 - 기간: 2020년 6월 22일 - 2020년 7월 5일
 
 ## Tech Stack Architecture
-![](
+![](image/architecture.png)
 
 ## DB Modeling
 
